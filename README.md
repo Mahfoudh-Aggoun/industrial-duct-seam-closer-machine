@@ -10,5 +10,7 @@
    <img src="https://raw.githubusercontent.com/Mahfoudh-Aggoun/industrial-duct-seam-closer-machine/refs/heads/main/real%20images/e838539f-90c6-4d92-bd61-d670142adb6b.jpeg" height="400" >
     <img src="https://raw.githubusercontent.com/Mahfoudh-Aggoun/industrial-duct-seam-closer-machine/refs/heads/main/real%20images/028f4f7d-a3ec-4078-bba3-ed86b74da541.jpeg" height="400" >
      <img src="https://raw.githubusercontent.com/Mahfoudh-Aggoun/industrial-duct-seam-closer-machine/refs/heads/main/real%20images/2e225533-b9b4-475e-8c9b-1ef728d95459.jpeg" height="400" >
+  <img src="https://raw.githubusercontent.com/Mahfoudh-Aggoun/industrial-duct-seam-closer-machine/refs/heads/main/real%20images/download.jpeg" height="400" >
+   
  
  <div>
